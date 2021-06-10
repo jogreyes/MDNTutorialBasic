@@ -1,0 +1,6 @@
+Moving and copying fies
+
+<a href="https://www.youtube.com/watch?v=GKEGNdNIQrw">YOUTUBE</a>
+
+    //Copy directories diferent locations
+        cp ~/MyDocument ~/Desktop/MyDocument
